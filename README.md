@@ -8,8 +8,8 @@ Navigate to the specific project folder you're interested in, and follow the ins
 
 # Project Levels
 ## Beginner
-[1. Ceaser Cypher](https://github.com/dherajm/Python-Projects/Beginner/ceaser-cypher) - 
-[2. Calculator](https://github.com/dherajm/Python-Projects/Beginner/calculator) - Build a simple calculator with basic arithmetic operations.
+- [Ceaser Cypher](https://github.com/dherajm/Python-Projects/tree/main/Beginner/ceaser-cypher) - 
+- [Calculator](https://github.com/dherajm/Python-Projects/tree/main/Beginner/calculator) - Build a simple calculator with basic arithmetic operations.
 
 ## Intermediate
 
