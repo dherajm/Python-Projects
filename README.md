@@ -42,8 +42,9 @@ You can clone this repository onto your local machine using the following comman
 10. [Secret Auction](): Implement a program for conducting secret auctions, allowing participants to bid privately and reveal the winner at the end.
 
 
-
 ### Intermidiate:
+1. [Coffee Maker](): A terminal-based coffee maker simulation allowing users to choose and customize their coffee orders.
+
 2. [GUI Km to Miles Converter](): Develop a GUI application using the turtle module for converting kilometers to miles, providing a user-friendly interface.
 
 3. [GUI Password Manager](): Build a secure GUI password manager using the turtle module, allowing users to store and retrieve their passwords.
@@ -59,11 +60,14 @@ You can clone this repository onto your local machine using the following comman
 8. [Pong Game with Turtle](): Build a two-player Pong game using the turtle module, providing a simple and enjoyable gaming experience.
 
 
-### Intermidiate +
+### Intermidiate +:
 
-### Advance
 
-### Portfolio
+### Advance:
+
+
+### Portfolio:
 
 
 ## Licence
+This repository is licensed under the MIT License - see the [LICENSE]() file for details.
