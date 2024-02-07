@@ -9,16 +9,10 @@ You can clone this repository onto your local machine using the following comman
 
 
 ## Tabel of Contents
-[1. Home]()
-
-[2. Project Levels]()
-
-   [- Beginner]()
-   [- Intermidiate]()
-   [- Intermidiate +]()
-   [- Advance]()
-   [- Portfolio]()
-[3. Licence]()
+1. [Home]()
+2. [Project Levels]()
+   - [Beginner]()
+3. [Licence]()
 
 
 ## Project Levels
