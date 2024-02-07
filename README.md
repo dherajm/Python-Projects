@@ -45,11 +45,11 @@ You can clone this repository onto your local machine using the following comman
 ### Intermidiate:
 1. [Coffee Maker](): A terminal-based coffee maker simulation allowing users to choose and customize their coffee orders.
 
-2. [GUI Km to Miles Converter](): Develop a GUI application using the turtle module for converting kilometers to miles, providing a user-friendly interface.
+2. [GUI Km to Miles Converter](): Develop a GUI application using the tkinter module for converting kilometers to miles, providing a user-friendly interface.
 
-3. [GUI Password Manager](): Build a secure GUI password manager using the turtle module, allowing users to store and retrieve their passwords.
+3. [GUI Password Manager](): Build a GUI password manager using the tkinter module, allowing users to store their passwords or generate new passwords.
 
-4. [GUI Pomodoro Timer](): Implement a GUI Pomodoro timer using the turtle module, helping users manage work intervals and breaks effectively.
+4. [GUI Pomodoro Timer](): Implement a GUI Pomodoro timer using the tkinter module, helping users manage work intervals and breaks effectively.
 
 5. [States Guessing Game](): Design an interactive turtle-based game that quizzes users on U.S. states, testing their geography knowledge.
 
