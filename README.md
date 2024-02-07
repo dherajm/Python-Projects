@@ -6,3 +6,15 @@ This repository is designed to help you enhance your Python skills through a cur
 You can clone this repository onto your local machine using the following command.
 
     git clone https://github.com/dherajm/Python-Projects
+
+
+## Project Levels
+### Beginner
+
+### Intermidiate
+
+### Intermidiate +
+
+### Advance
+
+### Portfolio
