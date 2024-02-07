@@ -3,7 +3,7 @@ Welcome to the Python Projects Repository! This repository is designed to help y
 
 # Getting Started
 To get started, clone this repository to your local machine using:
-'''git clone https://github.com/dherajm/Python-Projects.git'''
+      git clone https://github.com/dherajm/Python-Projects.git
 Navigate to the specific project folder you're interested in, and follow the instructions provided in each project's README file.
 
 # Project Levels
