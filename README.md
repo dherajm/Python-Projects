@@ -21,6 +21,9 @@ You can clone this repository onto your local machine using the following comman
 
 ## Project Levels
 ### Beginner
+1. [Calculator]() - Build a simple calculator with basic arithmetic operations.
+2. [Number Guessing]() - Create a game where the user guesses a randomly generated number.
+3. []() - 
 
 ### Intermidiate
 
