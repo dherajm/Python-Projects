@@ -16,7 +16,7 @@ You can clone this repository onto your local machine using the following comman
    - [Intermidiate +](https://github.com/dherajm/Python-Projects/blob/main/README.md#intermidiate-)
    - [Advance](https://github.com/dherajm/Python-Projects/blob/main/README.md#advance)
    - [Portfolio](https://github.com/dherajm/Python-Projects/blob/main/README.md#portfolio)
-3. [Licence]()
+3. [Licence](https://github.com/dherajm/Python-Projects/blob/main/README.md#licence)
 
 
 ## Project Levels
@@ -29,3 +29,6 @@ You can clone this repository onto your local machine using the following comman
 ### Advance
 
 ### Portfolio
+
+
+## Licence
