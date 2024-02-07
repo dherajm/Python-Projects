@@ -68,6 +68,6 @@ You can clone this repository onto your local machine using the following comman
 
 ### Portfolio:
 
-
+---
 ## Licence
 This repository is licensed under the MIT License - see the [LICENSE](https://github.com/dherajm/Python-Projects/blob/main/LICENSE) file for details.
