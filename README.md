@@ -10,8 +10,12 @@ You can clone this repository onto your local machine using the following comman
 
 ## Tabel of Contents
 1. [Home]()
-2. [Project Levels]()
-   - [Beginner]()
+2. [Project Levels](https://github.com/dherajm/Python-Projects/blob/main/README.md#project-levels)
+   - [Beginner](https://github.com/dherajm/Python-Projects/blob/main/README.md#beginner)
+   - [Intermidiate](https://github.com/dherajm/Python-Projects/blob/main/README.md#intermidiate)
+   - [Intermidiate +](https://github.com/dherajm/Python-Projects/blob/main/README.md#intermidiate-)
+   - [Advance](https://github.com/dherajm/Python-Projects/blob/main/README.md#advance)
+   - [Portfolio](https://github.com/dherajm/Python-Projects/blob/main/README.md#portfolio)
 3. [Licence]()
 
 
