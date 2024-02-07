@@ -8,6 +8,17 @@ You can clone this repository onto your local machine using the following comman
     git clone https://github.com/dherajm/Python-Projects
 
 
+## Tabel of Contents
+[1. Home]()
+[2. Project Levels]()
+   [- Beginner]()
+   [- Intermidiate]()
+   [- Intermidiate +]()
+   [- Advance]()
+   [- Portfolio]()
+[3. Licence]()
+
+
 ## Project Levels
 ### Beginner
 
