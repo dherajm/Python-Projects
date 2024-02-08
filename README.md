@@ -59,9 +59,11 @@ You can clone this repository onto your local machine using the following comman
 
 8. [Pong Game with Turtle](): Build a two-player Pong game using the turtle module, providing a simple and enjoyable gaming experience.
 
+9. [Flash Cards Project](): This Python Tkinter program creates a French-English flashcard application, reading vocabulary from a CSV file. Users are presented with random French words, can flip the card to see English translations, and use buttons to indicate correct or incorrect answers.
+
 
 ### Intermidiate +:
-
+1. [Automated Birthday Wisher](): An automated birthday wisher program written in Python that retrieves a list of birthdays from a data source, checks for current date matches, and sends personalized birthday wishes via email or another messaging platform. The program runs at scheduled intervals, ensuring timely and automated birthday greetings.
 
 ### Advance:
 
