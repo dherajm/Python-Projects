@@ -1,7 +1,11 @@
 # README
 Hello everyone,
-    
-To completely automate this code, you will have to hoist the code on Cloud.
+
+Firstly modify the 'birthdays.csv' file based on your requirements or you can add your own .csv file which contains (Name, Day, Month, Email ID) of the people you want to automate your birthday wish.
+
+Secondly, you can see a YouTube video to learn how to set App-Password for your Email ID.
+
+Lastly, to completely automate this code, you will have to hoist the code on Cloud.
 
 Follow the instructions below to successfully automate your code.
 - Visit 'https://www.pythonanywhere.com' and Sign In or Create an account.
